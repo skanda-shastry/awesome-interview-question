@@ -30,6 +30,7 @@ BIG-3 PST:
 
 
 Product Design & thinking:
+
 1) Design a phone for elderly people. (UX & Design)
 2) How do you determine, How shows get promoted Editorially vs Algorithmically recommended in Netflix impacts various parts of the biz? (Product/Matrics)
 3) How would you handle a disgruntled or dissatisfied customer. (Empathy)
@@ -48,32 +49,35 @@ Product Design & thinking:
 16) What is so cool about #Linux.
 
 Behavioural questions:
-1.What's the riskiest thing you have done in life?
-2.Choose between money or religion? Why?
-3.Are you usually more spontaneous or calculative? Why?
-4.Do you usually strive for speed or perfection? Why?
-5.What's more important - the institute name or the course you study? Why?
-6.What are you most passionate about in life?
-7. By do you get angry? How often?
-El, by do you lose patience? Flow often?
-9, When was the last time you were intimidated? 1.0. When was the last time you had self-doubt?
-11.	What: would your worst enemy say about you?
-12.	How will your professors describe you?
-13.	List at least 3 things you have learnt about life. 14, If you didn't have to ever earn money, what would you be doing in life?
-15. What's the one trait from your parents that you would like to ensure you (and your kids, if you have them) have for the rest of your life? 1.5. If you had to choose to live without one of your 5 senses (taster smell, sight, hearing, touch), which one would you give up?
-17.	If you're in a bad mood, do you prefer to be left alone or have someone cheer you up?
-18.	In what ways are you the same as your childhood self? 19, If you could see 24 hours into the future, what would you be doing?
-20. What would you do differently if you knew nobody would judge you?
-21. What is your favourite digital and non digital product and why? 
-22. What is more important tech or marketing? 
-23. WhaT is the best insight you learned last week?
-24 3 things you are good at. Why? Give example. 
-25 2 things you have been told or feel need work. Why?
-26 Can you tell me about a time when you were more than halfway through a project and had to pivot quickly due to an unexpected change? How did you handle it?
-27. would your current/prev org or employer hire you back?
-28. What is the one thing that you absolutely believe in, but most people disagree with you.
-29. What do you love to do?
-30. Can you share a one thing which learned recently in your domain.
+
+1.What's the riskiest thing you have done in life.  
+2.Choose between money or religion? Why?  
+3.Are you usually more spontaneous or calculative? Why?  
+4.Do you usually strive for speed or perfection? Why?  
+5.What's more important - the institute name or the course you study? Why?  
+6.What are you most passionate about in life?  
+7. By do you get angry? How often?  
+El, by do you lose patience? Flow often?  
+9, When was the last time you were intimidated? 1.0. When was the last time you had self-doubt?  
+11.	What: would your worst enemy say about you?  
+12.	How will your professors describe you?  
+13.	List at least 3 things you have learnt about life. 
+14, If you didn't have to ever earn money, what would you be doing in life?   
+15. What's the one trait from your parents that you would like to ensure you (and your kids, if you have them) have for the rest of your life? 
+17.	If you're in a bad mood, do you prefer to be left alone or have someone cheer you up?  
+18.	In what ways are you the same as your childhood self? 19, If you could see 24 hours into the future, what would you be doing?  
+20. What would you do differently if you knew nobody would judge you?  
+21. What is your favourite digital and non digital product and why?     
+22. What is more important tech or marketing?   
+23. WhaT is the best insight you learned last week?  
+24 3 things you are good at. Why? Give example.   
+25 two things you have been told or feel need work. Why?  
+26 Can you tell me about a time when you were more than halfway through a project and had to pivot quickly due to an unexpected change? How did you handle it?  
+27. would your current/prev org or employer hire you back?  
+28. What is the one thing that you absolutely believe in, but most people disagree with you.  
+29. What do you love to do?  
+30. Can you share a one thing which learned recently in your domain.  
+31. If you had to choose to live without one of your 5 senses (taster smell, sight, hearing, touch), which one would you give up?  
 
 
 
