@@ -1,5 +1,6 @@
 # awesome-interview-question
-A curated lists of behavioural, BIG-3 PST, Product Design & thinking interview questions.  Feel free to contribute! 🎓
+A curated lists of behavioural, BIG-3 PST, Product Design & thinking interview questions.   
+Feel free to contribute! 🎓
 
 These Question with no valid answers:
 
@@ -27,6 +28,7 @@ BIG-3 PST:
 16) Why are manholes round?If it were up to you what other shape should it have been and why.
 17) How many cricket balls are there in India.
 18) If I give you 8 balls and all looks exactly same. 7 has a same weight and 1 is little heavy. Just tell me how can you find that heavy one.
+19) What’s something that’s easy for me to do but hard for others? (discover what’s easy for you but hard for others)
 
 
 Product Design & thinking:
