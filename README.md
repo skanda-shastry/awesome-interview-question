@@ -1,25 +1,36 @@
-# awesome-interview-question
-A curated lists of behavioural, BIG-3 PST, Product Design & thinking interview questions.   
-Feel free to contribute! 🎓
 
-These Question with no valid answers:
+# Awesome-Interview-Question
+A curated list of behavioral, BIG-3 PST, Product Design & thinking interview questions.   
+Feel free to contribute! 🎓 These Questions have no valid answers.
 
 
-BIG-3 PST:
-Product Design & thinking:
-Behavioural questions:
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-BIG-3 PST:
+## Give it a Star! ⭐
+
+If you like this project, please [give it a star](#top) on GitHub for better visibility. Thanks!
+
+<!-- omit from toc -->
+## Table of Contents
+
+- [Before you start](#before-you-start)
+- [Guesstimate](#Guesstimate)
+- [Product Design & Thinking](#Product-Design-&-thinking)
+- [Behavioural questions](#Behavioural-questions)
+- [License](#license)
+
+## Guesstimate:
+
 1) How you estimate where does the Indian Ocean end and Pacific Ocean starts.
 2) How do you estimate the revenue of a toll booth in its lifetime if that’s 30 years.
-3) What is total consumption of water in the city of Bengaluru and when do you think it will run out of water.
+3) What is the total consumption of water in the city of Bengaluru and when do you think it will run out of water.
 4) Yesterday in India, how much bandwidth was streamed out of Youtube in listening to songs.
 5) How much money was spent through mobile wallets on petrol pumps in Delhi yesterday.
 6) Estimate the monthly electricity bill of the college you went to and suggest ways to optimize that.
 7) Estimate how many pot holes are there in Bangalore. 
 8) How would you sort all aadhar numbers / Jio mobile numbers.
-9) 5 frnds go to a bar - only 4 consume alcohol out of which 3 drink whiskey/scotch and 1 drinks beer . Also out of the 5 frnds 3 are non vegetarian 2 are vegetarian How do you split the bill.
-10) Ask if he was 5 kms away from destination and his car broke down just near a bus stop and it's whole family in the car, what would he do.... He has limited money and limited time to reach the destination and he must reach the destination before the target time.
+9) 5 friends go to a bar - only 4 consume alcohol out of which 3 drink whiskey/scotch and 1 drinks beer . Also out of the 5 frnds 3 are non vegetarian 2 are vegetarian How do you split the bill.
+10) Ask if he was 5 kms away from the destination and his car broke down just near a bus stop and it's whole family in the car, what would he do.... He has limited money and limited time to reach the destination and he must reach the destination before the target time.
 11) How would you evacuate Mumbai (or home city of candidate) in under 5 hours.
 12) How many beauty parlours are there in Delhi.
 13) How many £1 coins will fit in this room.
@@ -31,7 +42,7 @@ BIG-3 PST:
 19) What’s something that’s easy for me to do but hard for others? (discover what’s easy for you but hard for others)
 
 
-Product Design & thinking:
+## Product Design & thinking:
 
 1) Design a phone for elderly people. (UX & Design)
 2) How do you determine, How shows get promoted Editorially vs Algorithmically recommended in Netflix impacts various parts of the biz? (Product/Matrics)
@@ -50,7 +61,7 @@ Product Design & thinking:
 15) If a worm hole (when two dark holes join together) was put in the basement of your apartment, what problems will you solve with it? (Google)
 16) What is so cool about #Linux.
 
-Behavioural questions:
+## Behavioural questions:
 
 1.What's the riskiest thing you have done in life.  
 2.Choose between money or religion? Why?  
@@ -81,5 +92,7 @@ El, by do you lose patience? Flow often?
 30. Can you share a one thing which learned recently in your domain.  
 31. If you had to choose to live without one of your 5 senses (taster smell, sight, hearing, touch), which one would you give up?  
 
+## License
 
+[MIT](https://choosealicense.com/licenses/mit/)
 
