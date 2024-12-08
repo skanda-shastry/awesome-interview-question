@@ -11,7 +11,7 @@ Feel free to contribute! 🎓 These Questions have no valid answers.
 ## Table of Contents
 
 - [Guesstimate](#Guesstimate)
-- [Product Design & thinking](#Product-Design-&-thinking)
+- [Product Design & thinking](#Product-Design-\&-thinking)
 - [Behavioural questions](#Behavioural-questions)
 - [License](#License)
 
