@@ -6,16 +6,12 @@ Feel free to contribute! 🎓 These Questions have no valid answers.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-## Give it a Star! ⭐
-
-If you like this project, please [give it a star](#top) on GitHub for better visibility. Thanks!
 
 <!-- omit from toc -->
 ## Table of Contents
 
-- [Before you start](#before-you-start)
 - [Guesstimate](#Guesstimate)
-- [Product Design & Thinking](#Product-Design-&-thinking)
+- [Product Design & thinking](#Product-Design-&-thinking)
 - [Behavioural questions](#Behavioural-questions)
 - [License](#license)
 
@@ -91,6 +87,11 @@ El, by do you lose patience? Flow often?
 29. What do you love to do?  
 30. Can you share a one thing which learned recently in your domain.  
 31. If you had to choose to live without one of your 5 senses (taster smell, sight, hearing, touch), which one would you give up?  
+
+
+## Give it a Star! ⭐
+
+If you like this project, please [give it a star](#top) on GitHub for better visibility. Thanks!
 
 ## License
 
